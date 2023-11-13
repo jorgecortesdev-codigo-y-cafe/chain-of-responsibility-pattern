@@ -1,8 +1,8 @@
 <p><a href="https://www.youtube.com/@CodigoyCafe" target="_blank"><img src="https://raw.githubusercontent.com/jorgecortesdev/jorgecortesdev/main/art/banner-codigo-y-cafe.jpg" alt="Código y Café"></a></p>
 
-# cc-example-template
+# cc-chain-of-responsibility-pattern
 
-Esqueleto de un repositorio para los ejemplos de código de mi canal de youtube.
+Este repositorio contiene el código de ejemplo utilizado en el video del patrón de cadena de responsabilidad de mi canal de youtube.
 
 ## Apóya mi trabajo
 
@@ -13,8 +13,8 @@ Crear contenido gratuito requiere de mucho esfuerzo y horas de trabajo, sin menc
 ## Uso
 
 ```shell
-git clone https://github.com/jorgecortesdev/cc-example-template.git
-cd cc-example-template
+git clone https://github.com/jorgecortesdev/cc-chain-of-responsibility-pattern.git
+cd cc-chain-of-responsibility-pattern 
 composer install
 ```
 ## Pruebas
@@ -39,6 +39,7 @@ Favor de ver el archivo [CHANGELOG](CHANGELOG.md) para mayor información de los
 
 ## Referencias
 
+- Liga al video: https://www.youtube.com/watch?v=hKrGWDggObU
 - Liga al canal: https://www.youtube.com/@CodigoyCafe
 
 ## License

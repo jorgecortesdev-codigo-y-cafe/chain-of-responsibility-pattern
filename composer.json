@@ -1,5 +1,5 @@
 {
-    "name": "jorgecortesdev/cc-example-template",
+    "name": "jorgecortesdev/cc-chain-of-responsibility-pattern",
     "description": "Esqueleto de un repositorio para los ejemplos de código de mi canal de youtube.",
     "keywords": ["php"],
     "require": {
