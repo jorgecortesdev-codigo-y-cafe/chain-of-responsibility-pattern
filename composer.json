@@ -1,7 +1,9 @@
 {
-    "name": "jorgecortesdev/cc-chain-of-responsibility-pattern",
+    "name": "jorgecortesdev-codigo-y-cafe/chain-of-responsibility-pattern",
     "description": "Esqueleto de un repositorio para los ejemplos de código de mi canal de youtube.",
-    "keywords": ["php"],
+    "keywords": [
+        "php"
+    ],
     "require": {
         "php": "^8.2"
     },
